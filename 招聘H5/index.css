@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    padding: 1em;
+    overflow: scroll;
+}
+.w100{
+    width: 100%;
+}
+.mtop2{
+    margin-top: 1.5em;
+}
+.m2a7{
+    margin:1em 0 .7em;
+}
+.w1em{
+    width: 1em;
+}
+.borders{
+    border-bottom: 1px dashed black;
+}
+.fl{
+    float: left;
+}
+.zziconbox{
+    margin-top: .2em;
+    margin-right: .5em;
+}
+.zzwp{
+    width: calc(100% - 2em);
+}
+.content li{
+    overflow: hidden;
+}
+.m7m04{
+    margin: .7em 0 .4em;
+}
+.fuli{
+    display: flex;
+    justify-content: space-between;
+}
+.fuli>section{
+    font-size: .8em;
+    width: calc(25% - .5em);
+    text-align: center;
+    background-color: #6c0000;
+    color: white;
+    padding: .1em 0;
+}
+.xinzi{
+    overflow: hidden;
+}
+.xinzi>section{
+    float: left;
+    font-size: .8em;
+    background-color: #6c0000;
+    color: white;
+    padding: .1em .6em;
+}
+.w2em{
+    width: 2em;
+}
+footer{
+    padding-top: 4em;
+}
+.fr{
+    float: right;
+}
+.textright{
+    text-align: right;
+}
+.w20em{
+    width: 15em;
+}
+.bord{
+    font-weight: bolder;
+    font-size: .8em;
+}
+.p50{
+    padding: .5em 0;
+}
